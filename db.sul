@@ -1,1 +1,3 @@
 i love france
+db-password=$password
+db-username=$user
